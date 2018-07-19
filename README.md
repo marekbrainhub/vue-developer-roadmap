@@ -2,10 +2,10 @@
 
 > Roadmap to becoming a Vue developer in 2018
 
-Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn in order to become a Vue developer. I ~~made~~ stole this chart from [adam-golab](https://github.com/adam-golab/react-developer-roadmap) (with permission) as a tip for everyone who asks me "What should I learn next as a Vue developer?"
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn in order to become a Vue developer. This chart is inspired by [adam-golab's React roadmap](https://github.com/adam-golab/react-developer-roadmap) (with permission) as a tip for everyone who asks me "What should I learn next as a Vue developer?"
 
 ## Disclaimer
-> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+> The purpose of this roadmap is to give you an idea about the ecosystem. The road map will guide you if you are confused about what to learn next, rather than encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
 
 ## Roadmap
 
@@ -47,6 +47,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [vue-cli](https://cli.vuejs.org/)
     * [Webpack](https://webpack.js.org/)
     * [Parcel](https://parceljs.org/)
+    * [Storybook](https://storybook.js.org/)
 5. Styling
     1. CSS Preprocessor
         * [Sass/CSS](https://sass-lang.com/)
@@ -56,14 +57,13 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     2. Component libraries
         * [Quasar](https://quasar-framework.org/)
         * [Vuetify](https://vuetifyjs.com/en/)
+        * [iView](https://www.iviewui.com/)
         * [Vuesax](https://lusaxweb.github.io/vuesax/)
         * [bootstrap-vue](https://bootstrap-vue.js.org/)
 6. State Management
-    1. [Vue Redux](https://yarnpkg.com/en/packages?q=redux%20vue&p=1)
     2. [Vuex](https://vuex.vuejs.org/)
         1. Data persistence
-            * [Redux Persist](https://github.com/rt2zz/redux-persist)
-            * [Redux Phoenix](https://github.com/adam-golab/redux-phoenix)
+            * [vue-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate)
 7. Routing
     * [Vue Router](https://router.vuejs.org/)
     * [Router5](https://router5.js.org/)
@@ -79,7 +79,6 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 11. Utility Libraries
     * [Lodash](https://lodash.com/)
     * [Moment](https://momentjs.com/)
-    * [classnames](https://github.com/JedWatson/classnames)
     * [Numeral](http://numeraljs.com/)
     * [RxJS](http://reactivex.io/)
     * [Ramda](https://ramdajs.com/)
@@ -107,11 +106,14 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [VuePress](https://vuepress.vuejs.org/)
 17. Mobile
     * [Quasar](https://quasar-framework.org/)
-    * [Vue Native](https://nativescript-vue.org/)
-    * [Cordova](https://cordova.apache.org/)/[Phonegap](https://phonegap.com/)
+    * [Vue Native](https://github.com/GeekyAnts/vue-native-core/)
+    * [Nativescript Vue](https://nativescript-vue.org/)
+    * [Weex](https://weex.incubator.apache.org/)
 18. Desktop
     * [Quasar](https://quasar-framework.org/)
     * [Electron](https://electronjs.org/)
+    * [NW.js](https://nwjs.io/)
+    * [Vuido](https://vuido.mimec.org/)
 
 ## Wrap Up
 
