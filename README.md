@@ -1,6 +1,6 @@
 # Vue Developer Roadmap
 
-> Roadmap to becoming a Vue developer in 2018
+> Roadmap to becoming a Vue developer in 2019
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn in order to become a Vue developer. This chart is inspired by [adam-golab's React roadmap](https://github.com/adam-golab/react-developer-roadmap) (with permission) as a tip for everyone who asks me "What should I learn next as a Vue developer?"
 
